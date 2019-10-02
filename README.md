@@ -1,6 +1,6 @@
 # Bolt
 ## Boltocska
 ### Nagyon kicsi bolt
-_valami_
+_valami_.
 **akárki**
 
